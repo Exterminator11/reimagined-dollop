@@ -1,0 +1,17 @@
+{
+  "start_date": "2023-01-01",
+  "end_date": "2026-01-01",
+  "history_days": 365,
+  "followup_days": 90,
+  "acs_year": 2022,
+  "acs_available_date": "2023-12-07",
+  "categories": ["PLUMBING", "HEAT/HOT WATER", "UNSANITARY CONDITION", "Rodent", "Sewer", "Dirty Condition"],
+  "page_size": 20000,
+  "work_dir": "work",
+  "pluto_csv": null,
+  "pluto_available_date": null,
+  "kaggle_dataset": null,
+  "kaggle_title": "NYC Housing Complaints and Neighborhoods",
+  "kaggle_license": "other",
+  "kaggle_public": false
+}

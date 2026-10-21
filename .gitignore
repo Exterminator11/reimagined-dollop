@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Research downloads, merged artifacts and local credentials
+data_preperation/work/
+data_preperation/config.local.json
+kaggle.json
